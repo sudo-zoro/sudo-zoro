@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Abhijna PS
-- Data Engineer | Cybersecurity enthusiast
+- Developer | Cybersec
 - Python • SQL • Linux
