@@ -1,7 +1,7 @@
 <h3 align="center">Hey! I'm Abhijna 👋</h3>
 
 <p align="center">
-Backend Engineer • Data Engineer • Cybersec
+Backend Engineer • Cybersec
 </p>
 
 <p align="center">
