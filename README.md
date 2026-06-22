@@ -11,5 +11,3 @@ Data warehousing on <b>Amazon Redshift, PostgreSQL, Snowflake</b><br>
 Cloud & backend: <b>AWS (Lambda, S3, API Gateway), FastAPI, Flask</b><br>
 Interested in <b>Distributed Systems, LLMs, RAG</b> and data infrastructure.
 </p>
-<br>
-<br>
